@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","23767","Agent Registration","","2026-06-09","failed","2026-06-09","","ContactInformation.spec.ts","",""
+"","17842","Agent Registration","chromium","2026-06-09","passed","2026-06-09","","AgentRegistration.spec.ts","",""
+"","32701","Agent Registration","","2026-06-09","broken","2026-06-09","","AgentRegistration.spec.ts","",""
